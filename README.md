@@ -1,4 +1,7 @@
 NFT Mine Game Documentation
+
+
+
 Overview
 The NFT Mine Game is a web-based card-matching game that combines entertainment with educational elements focused on blockchain technology. Players flip cards to find matching pairs while learning about blockchain concepts through simulated transactions using Move on the Aptos blockchain.
 
